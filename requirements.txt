@@ -1,0 +1,6 @@
+requests>=2.31.0
+psutil>=5.9.0
+pywin32>=306
+pycryptodome>=3.20.0
+cryptography>=42.0.0
+browser-cookie3>=0.19.1
